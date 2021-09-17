@@ -3,35 +3,14 @@
 #### 介绍
 操作系统实验2--OSsimulation V2.0
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+数据库：MySQL-5.1.55，数据库名cpuschedule。运行backupque.sql文件即可  
+Random按钮作用：随机生成10个进程加入后备队列(数据库)生产模拟数据  
+按下挂起按钮会暂停，效果类似于按下终止按钮  
+点击左侧进程列表的任意一个表项即可查看该进程的详细信息  
+内存使用情况：蓝色-操作系统占用；绿色/黄色-进程占用；黄色-刚被调入就绪队列的进程的占用情况；  
+Unpartitioned-Table：未分配分区表  
 
 #### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+CSU，SE 2019
+仓葵与暮
